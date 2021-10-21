@@ -24,4 +24,4 @@ Code is licensed under the Apache 2.0 license.
 Modifications made in Gutenberg Docs:
 =================
 
-Changed backgrounds and fonts to match theme of novel. However, I left the fonts in the body of the docs as-is, as changing those fonts could make it difficult to read.
+Changed backgrounds and fonts to match theme of novel. However, I left the fonts in the body of the docs as-is, as changing those fonts could make it difficult to read. Experimented with gradients for the backgrounds, and shadows for the fonts.
